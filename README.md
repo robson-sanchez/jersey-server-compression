@@ -1,0 +1,2 @@
+# Jersey Server Compression
+
